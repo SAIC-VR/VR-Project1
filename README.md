@@ -11,15 +11,13 @@
 
 ## Important Dates
 
-## Project Proposal: October 11 @ 11:59
-## Project Due and on GitHub: **October 23**, 2018 @ 11:59pm (CST)
-## Project presentation & documentation: **October 25**
+* Project Proposal: October 11 @ 11:59
+* Project Due and on GitHub: **October 23**, 2018 @ 11:59pm (CST)
+* Project presentation & documentation: **October 25**
 
 ## Project Description 
 
 In this project you will model your favorite VR space to spend time. Given time constrains you will need to choose the level of detail and size of your effort. The main constrains are you must be able to navigate the space, and you must have three objects that can be interacted with by the user of the VR device. 
-
-## Project Repository (To be posted)
 
 ## Storyline
 Write down a few paragraphs of narrative (250-300 words) that introduce your storyline. Introduce the back-story. Describe what happened just before the action in the environment – how did the user end up in the situation they are placed at the beginning of the environment? 
@@ -36,8 +34,7 @@ What does the user:
 
 How does the experience evolve? If your VR experience does not have an actual storyline, jot down the background for how you developed the idea for your piece. What was in your mind? Why do you think your idea is a good one? What was your inspiration? Remember your work will have a storyboard even if you are not developing a narrative type experience.
 
-# Class Project Requirements
-
+# Project Requirements
 There are multiple required components to each class project, which are described in more detail below. Each project will require the following:
 
 - Project Proposal [10%]()
@@ -66,8 +63,7 @@ Fill out the [VR Project1 Proposal](https://goo.gl/forms/FRQ0fqJmvZ6b6QQs2) by *
 Implementation of project is the execution of the milestones to achieve the project goal(s).  As you develop your project, you will be applying an iterative process that will likely require the adjustment of milestones and goals.  These adjustments should be captured in your projects final report.
 
 ## Project Report [20%]() 
-Report on project, simple summary of effort. 
-Report should include the following:
+Report on project, simple summary of effort. Report should include the following:
  
  - Title of the project
  - Author
